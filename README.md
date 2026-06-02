@@ -35,7 +35,11 @@ Atuar como Desenvolvedor Back-end e construir soluções que gerem impacto real 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,postgres,mysql,,git,github,idea,html,css,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,postgres,mysql,docker,git,github,idea,html,css,vscode,javascript"/>
+
+<br><br>
+
+<img src="URL_DO_LOGO_ANTIGRAVITY" height="48"/>
 
 </div>
 
