@@ -2,7 +2,7 @@
 
 # Olá, eu sou Gabriel Bortoloti 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Estudante de Ciência da Computação
 
 💻 Desenvolvedor em formação apaixonado por tecnologia, banco de dados e desenvolvimento back-end.
 
@@ -20,9 +20,11 @@
 - Java
 - SQL
 - PostgreSQL
-- Docker
-- UML
+- JavaScript
+- Python
+- HTML e CSS
 - Git e GitHub
+- Google Antigravity
 
 🎯 Objetivo:
 Atuar como Desenvolvedor Back-end e construir soluções que gerem impacto real para usuários e empresas.
@@ -33,7 +35,7 @@ Atuar como Desenvolvedor Back-end e construir soluções que gerem impacto real 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,postgres,mysql,docker,git,github,idea,html,css,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,postgres,mysql,,git,github,idea,html,css,vscode"/>
 
 </div>
 
