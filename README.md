@@ -76,6 +76,12 @@ Coleção de consultas e atividades práticas voltadas para banco de dados.
 </div>
 
 ---
+## 🐍 Minhas Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GABBORTOLOTI31/GABBORTOLOTI31/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
 
 ## 🌎 Contato
 
