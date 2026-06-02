@@ -74,17 +74,7 @@ Coleção de consultas e atividades práticas voltadas para banco de dados.
 <img src="https://streak-stats.demolab.com?user=GABBORTOLOTI31&theme=tokyonight"/>
 
 </div>
-
 ---
-## 🐍 Minhas Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GABBORTOLOTI31/GABBORTOLOTI31/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
----
-
 ## 🌎 Contato
 
 <div align="center">
