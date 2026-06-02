@@ -74,7 +74,8 @@ Coleção de consultas e atividades práticas voltadas para banco de dados.
 <img src="https://streak-stats.demolab.com?user=GABBORTOLOTI31&theme=tokyonight"/>
 
 </div>
----
+
+
 ## 🌎 Contato
 
 <div align="center">
