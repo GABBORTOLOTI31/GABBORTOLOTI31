@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GABBORTOLOTI31/GABBORTOLOTI31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Gabriel Bortoloti 👋
 
-Here are some ideas to get you started:
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor em formação apaixonado por tecnologia, banco de dados e desenvolvimento back-end.
+
+🚀 Em constante evolução através de projetos acadêmicos e estudos práticos.
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas
+
+📚 Estudando:
+- Java
+- SQL
+- PostgreSQL
+- Docker
+- UML
+- Git e GitHub
+
+🎯 Objetivo:
+Atuar como Desenvolvedor Back-end e construir soluções que gerem impacto real para usuários e empresas.
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,postgres,mysql,docker,git,github,idea,html,css,vscode"/>
+
+</div>
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔹 Sistema de Ordem de Serviço
+Aplicação desenvolvida em Java utilizando conceitos de orientação a objetos e persistência de dados.
+
+### 🔹 Banco de Dados PostgreSQL
+Projetos acadêmicos envolvendo modelagem, SQL e manipulação de dados.
+
+### 🔹 Exercícios SQL
+Coleção de consultas e atividades práticas voltadas para banco de dados.
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GABBORTOLOTI31&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABBORTOLOTI31&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GABBORTOLOTI31&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌎 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabriel-bortoloti-237170294">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Todo especialista já foi um iniciante."
+
+</div>
