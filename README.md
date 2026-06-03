@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas
+🎓 Cursando Ciência da Computação 
 
 📚 Estudando:
 - Java
