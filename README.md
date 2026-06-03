@@ -55,18 +55,6 @@ Coleção de consultas e atividades práticas voltadas para banco de dados.
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GABBORTOLOTI31&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABBORTOLOTI31&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🔥 Sequência de Contribuições
 
 <div align="center">
